@@ -1,10 +1,10 @@
 # US HR & Recruiting Jobs
 
-Open HR and recruiting roles at US employers: 160 HR and recruiting roles at 107 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=people).** Last updated 2026-11-14.
+Open HR and recruiting roles at US employers: 161 HR and recruiting roles at 108 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=people).** Last updated 2026-11-15.
 
-All 160 are listed below. Browse the newest on [warmada.com/jobs/people](https://warmada.com/jobs/people?utm_source=github&utm_medium=list&utm_campaign=people).
+All 161 are listed below. Browse the newest on [warmada.com/jobs/people](https://warmada.com/jobs/people?utm_source=github&utm_medium=list&utm_campaign=people).
 
-**By city:** New York (35) · San Francisco (37) · Seattle (3) · Boston (6) · Austin (2) · Chicago (3) · Denver (4) · Washington, DC (1) · Atlanta (1) · Houston (1) · San Diego (1) · Remote (25) · Elsewhere in the US (41)
+**By city:** New York (35) · San Francisco (39) · Seattle (3) · Boston (6) · Austin (2) · Chicago (3) · Denver (4) · Washington, DC (1) · Atlanta (1) · Houston (1) · San Diego (1) · Remote (24) · Elsewhere in the US (41)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a HR and recruiting role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -50,16 +50,18 @@ A bad listing? Email hello@warmada.com with the link.
 | [Method Financial](https://warmada.com/companies/method-financial?utm_source=github&utm_medium=list&utm_campaign=people) | Senior Technical Recruiter | New York, NY | Nov 2 | [Apply](https://jobs.ashbyhq.com/method/bfa476e4-59f1-4cec-8d6c-82b23be71c2f) · [Find the hiring manager](https://warmada.com/job/method-financial-senior-technical-recruiter-7bc45296-1b69-44ee-838c-237a00121a37?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Datadog](https://warmada.com/companies/datadog?utm_source=github&utm_medium=list&utm_campaign=people) | Director, People Business Partner | New York, New York, USA | Nov 2 | [Apply](https://careers.datadoghq.com/detail/8346056/?gh_jid=8346056) · [Find the hiring manager](https://warmada.com/job/datadog-director-people-business-partner-98fe8588-6d5c-4e1f-8b50-bc3629271395?utm_source=github&utm_medium=list&utm_campaign=people) |
 
-## San Francisco (37)
+## San Francisco (39)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [incident.io](https://warmada.com/companies/incident-io?utm_source=github&utm_medium=list&utm_campaign=people) | Lead GTM Talent Partner | San Francisco | Nov 14 | [Apply](https://jobs.ashbyhq.com/incident/0e90b1f8-fda7-4ee0-b653-eca7c2e64310) · [Find the hiring manager](https://warmada.com/job/incident-io-lead-gtm-talent-partner-a128a7dc-82fe-4ad0-9394-f74e3d6504ae?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=people) | HR Business Partner, GTM | San Francisco | Nov 14 | [Apply](https://jobs.ashbyhq.com/openai/695f73a5-00f5-416a-8939-78571263819b) · [Find the hiring manager](https://warmada.com/job/openai-hr-business-partner-gtm-f5081ec3-f199-41b0-8c4d-3fdfccf03a49?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=people) | Lead HR Business Partner, GTM | San Francisco | Nov 14 | [Apply](https://jobs.ashbyhq.com/openai/57486b6e-0b23-4fec-9c35-5efb63fa521a) · [Find the hiring manager](https://warmada.com/job/openai-lead-hr-business-partner-gtm-e3cd0828-e7c3-42f5-848d-b9366c7c2b19?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Rothy's](https://warmada.com/companies/rothy-s?utm_source=github&utm_medium=list&utm_campaign=people) | Senior Manager, Total Rewards | San Francisco, CA | Nov 13 | [Apply](https://jobs.ashbyhq.com/Rothys/473b4b7b-31db-4dd9-9a34-d3506b9322b1) · [Find the hiring manager](https://warmada.com/job/rothy-s-senior-manager-total-rewards-3cf9c8d5-2567-4d7c-9ace-00b0e6b934ba?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Hex](https://warmada.com/companies/hex?utm_source=github&utm_medium=list&utm_campaign=people) | People Partner Lead | San Francisco | Nov 13 | [Apply](https://jobs.ashbyhq.com/hex/88cd1ddd-a21b-41a0-843e-12862ff75d04) · [Find the hiring manager](https://warmada.com/job/hex-people-partner-lead-a9dcd8b1-d51c-4af2-b755-42d9117dac27?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [a16z](https://warmada.com/companies/a16z?utm_source=github&utm_medium=list&utm_campaign=people) | Partner 18, Talent, Speedrun | San Francisco, California, United States | Nov 12 | [Apply](https://a16z.com/about/jobs/?gh_jid=8199686003) · [Find the hiring manager](https://warmada.com/job/a16z-partner-18-talent-speedrun-240d502a-dddd-4f30-b331-b7021716ae76?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Edison Scientific](https://warmada.com/companies/edison-scientific?utm_source=github&utm_medium=list&utm_campaign=people) | Recruiting Coordinator | San Francisco | Nov 12 | [Apply](https://jobs.ashbyhq.com/Edison%20Scientific/906ab418-1640-452e-9a5c-a74246c7c4b0) · [Find the hiring manager](https://warmada.com/job/edison-scientific-recruiting-coordinator-c7cf0168-3e2c-4362-8940-3ecf6030c25d?utm_source=github&utm_medium=list&utm_campaign=people) |
+| [Manifest OS](https://warmada.com/companies/manifest-os?utm_source=github&utm_medium=list&utm_campaign=people) | Account Executive (Global Mobility &amp; HR) | San Francisco | Nov 12 | [Apply](https://jobs.ashbyhq.com/manifest-os/a1b2e445-b3a8-4643-ab10-eb441e037cc1) · [Find the hiring manager](https://warmada.com/job/manifest-os-account-executive-global-mobility-and-hr-bbd1bd1d-7e2d-4196-878c-a8655bb25733?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Figma](https://warmada.com/companies/figma?utm_source=github&utm_medium=list&utm_campaign=people) | Manager, Recruiting - Engineering | San Francisco, CA • New York, NY • United States | Nov 12 | [Apply](https://boards.greenhouse.io/figma/jobs/6253326004?gh_jid=6253326004) · [Find the hiring manager](https://warmada.com/job/figma-manager-recruiting-engineering-880b502e-1b8d-4a27-8026-2c80153b6c0c?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Chime](https://warmada.com/companies/chime?utm_source=github&utm_medium=list&utm_campaign=people) | People Programs Lead, People Operations | San Francisco, CA, USA | Nov 12 | [Apply](https://boards.greenhouse.io/chime/jobs/8933682002?gh_jid=8933682002) · [Find the hiring manager](https://warmada.com/job/chime-people-programs-lead-people-operations-c5a942ef-3e47-4ef9-8753-c66da506fdb5?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Ripple](https://warmada.com/companies/ripple?utm_source=github&utm_medium=list&utm_campaign=people) | Manager, Technical Recruiting | San Francisco, CA, United States | Nov 11 | [Apply](https://ripple.com/careers/all-jobs/job/8381507?gh_jid=8381507) · [Find the hiring manager](https://warmada.com/job/ripple-manager-technical-recruiting-6c55a646-d2bc-42bc-9778-739906be4a4d?utm_source=github&utm_medium=list&utm_campaign=people) |
@@ -159,7 +161,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Aya Healthcare](https://warmada.com/companies/aya-healthcare?utm_source=github&utm_medium=list&utm_campaign=people) | Talent and Performance Manager | San Diego, CA | Nov 5 | [Apply](https://www.ayahealthcare.com/corporate-careers/jobs/8357183?gh_jid=8357183) · [Find the hiring manager](https://warmada.com/job/aya-healthcare-talent-and-performance-manager-203007fd-5430-4c35-94e6-eefd42046d9f?utm_source=github&utm_medium=list&utm_campaign=people) |
 
-## Remote (25)
+## Remote (24)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -187,7 +189,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Podium](https://warmada.com/companies/podium?utm_source=github&utm_medium=list&utm_campaign=people) | Senior Corporate Recruiter | Remote, US | Nov 2 | [Apply](https://job-boards.greenhouse.io/podium81/jobs/8347862) · [Find the hiring manager](https://warmada.com/job/podium-senior-corporate-recruiter-35e893c6-fb47-4834-a7e4-803dbe7d7c17?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Podium](https://warmada.com/companies/podium?utm_source=github&utm_medium=list&utm_campaign=people) | Corporate Recruiter | Remote, US | Nov 2 | [Apply](https://job-boards.greenhouse.io/podium81/jobs/8347850) · [Find the hiring manager](https://warmada.com/job/podium-corporate-recruiter-d458842e-e1e1-4010-bebb-067828ded48f?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [OpenLoop Health](https://warmada.com/companies/openloop-health?utm_source=github&utm_medium=list&utm_campaign=people) | Sr Director HR, Pharmacies | United States - Remote | Nov 2 | [Apply](https://jobs.ashbyhq.com/openloophealth/8116b7b8-bc2e-4133-9ef7-cf44d116925b) · [Find the hiring manager](https://warmada.com/job/openloop-health-sr-director-hr-pharmacies-86899b05-fecd-4990-9797-33bdc0478947?utm_source=github&utm_medium=list&utm_campaign=people) |
-| Intellistack | Talent Acquisition &amp; Experience Partner | Remote/United States | Nov 1 | [Apply](https://jobs.ashbyhq.com/Intellistack/b966c1a8-b9c9-408c-b0ba-846b46f85423) · [Find the hiring manager](https://warmada.com/job/intellistack-talent-acquisition-and-experience-partner-46365cb8-0aaa-4708-91e7-2d0d09f09d82?utm_source=github&utm_medium=list&utm_campaign=people) |
 
 ## Elsewhere in the US (41)
 
