@@ -1,10 +1,10 @@
 # US HR & Recruiting Jobs
 
-Open HR and recruiting roles at US employers: 150 HR and recruiting roles at 112 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=people).** Last updated 2026-11-21.
+Open HR and recruiting roles at US employers: 149 HR and recruiting roles at 111 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=people).** Last updated 2026-11-22.
 
-All 150 are listed below. Browse the newest on [warmada.com/jobs/people](https://warmada.com/jobs/people?utm_source=github&utm_medium=list&utm_campaign=people).
+All 149 are listed below. Browse the newest on [warmada.com/jobs/people](https://warmada.com/jobs/people?utm_source=github&utm_medium=list&utm_campaign=people).
 
-**By city:** New York (37) · San Francisco (35) · Seattle (3) · Boston (5) · Austin (2) · Chicago (1) · Los Angeles (2) · Denver (1) · Washington, DC (1) · Atlanta (4) · Dallas (1) · Remote (18) · Elsewhere in the US (40)
+**By city:** New York (37) · San Francisco (34) · Seattle (3) · Boston (5) · Austin (2) · Chicago (1) · Los Angeles (2) · Denver (1) · Washington, DC (1) · Atlanta (4) · Dallas (1) · Remote (18) · Elsewhere in the US (40)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a HR and recruiting role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -50,9 +50,9 @@ A bad listing? Email hello@warmada.com with the link.
 | [Yext](https://warmada.com/companies/yext?utm_source=github&utm_medium=list&utm_campaign=people) | Senior Human Resources Business Partner, G&amp;A | New York, NY | Nov 9 | [Apply](https://job-boards.greenhouse.io/yext/jobs/8366280) · [Find the hiring manager](https://warmada.com/job/yext-senior-human-resources-business-partner-g-and-a-e69f36a6-f526-491d-8c98-b0f60f91fcb3?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=people) | Recruiter, Communications | San Francisco, CA \| New York City, NY | Nov 9 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5476704008) · [Find the hiring manager](https://warmada.com/job/anthropic-recruiter-communications-1c407c88-2b1b-4eff-aa58-fe77efccfca9?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Datadog](https://warmada.com/companies/datadog?utm_source=github&utm_medium=list&utm_campaign=people) | Senior Recruiter - Enterprise | Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA | Nov 9 | [Apply](https://careers.datadoghq.com/detail/8221611/?gh_jid=8221611) · [Find the hiring manager](https://warmada.com/job/datadog-senior-recruiter-enterprise-4953d4f2-58d8-46da-9d30-b1ce5835c346?utm_source=github&utm_medium=list&utm_campaign=people) |
-| [Nourish](https://warmada.com/companies/nourish?utm_source=github&utm_medium=list&utm_campaign=people) | Recruiting Coordinator | New York, NY | Nov 8 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5476383008) · [Find the hiring manager](https://warmada.com/job/nourish-recruiting-coordinator-f1eed7a4-d055-4512-9506-d26ba41efd71?utm_source=github&utm_medium=list&utm_campaign=people) |
+| [Nourish](https://warmada.com/companies/nourish?utm_source=github&utm_medium=list&utm_campaign=people) | Senior Recruiting Coordinator | New York, NY | Nov 8 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5476383008) · [Find the hiring manager](https://warmada.com/job/nourish-senior-recruiting-coordinator-f1eed7a4-d055-4512-9506-d26ba41efd71?utm_source=github&utm_medium=list&utm_campaign=people) |
 
-## San Francisco (35)
+## San Francisco (34)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -90,7 +90,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=people) | Program Manager, M&amp;A Recruiting \| People | San Francisco | Nov 10 | [Apply](https://jobs.ashbyhq.com/openai/8f2d7c1e-7a76-4145-9a9d-b71a12ef9ad4) · [Find the hiring manager](https://warmada.com/job/openai-program-manager-m-and-a-recruiting-people-9e177fd6-cc46-4a38-95cc-b52773a7e4c7?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=people) | Recruiter, Data Center Infrastructure | San Francisco | Nov 10 | [Apply](https://jobs.ashbyhq.com/openai/8b237859-7e49-4e46-8850-575b78f76aee) · [Find the hiring manager](https://warmada.com/job/openai-recruiter-data-center-infrastructure-867045ba-4ccd-4622-9488-2231ab6f163c?utm_source=github&utm_medium=list&utm_campaign=people) |
 | [Sigma Computing](https://warmada.com/companies/sigma-computing?utm_source=github&utm_medium=list&utm_campaign=people) | HR Business Partner - Tech | San Francisco, CA | Nov 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8036580003) · [Find the hiring manager](https://warmada.com/job/sigma-computing-hr-business-partner-tech-e29d3cbc-1df1-4b9f-829a-a6f30dc7f51f?utm_source=github&utm_medium=list&utm_campaign=people) |
-| [Terac](https://warmada.com/companies/terac?utm_source=github&utm_medium=list&utm_campaign=people) | Founding Recruiter | San Francisco | Nov 8 | [Apply](https://jobs.ashbyhq.com/terac/3d362f56-b614-44fe-9c4f-c1f28bbb6819) · [Find the hiring manager](https://warmada.com/job/terac-founding-recruiter-fd875561-7ae7-4095-8edf-5eb00146e965?utm_source=github&utm_medium=list&utm_campaign=people) |
 
 ## Seattle (3)
 
